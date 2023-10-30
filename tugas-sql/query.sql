@@ -1,3 +1,6 @@
+-- Mohammad Arkananta Radithya Taratugang
+-- 5027221003
+
 -- Soal 1
 
 SELECT
