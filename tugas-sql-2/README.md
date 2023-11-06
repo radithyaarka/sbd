@@ -47,6 +47,11 @@ WHERE akademik.task.id_mhs = (
 
 ### Output
 
+**Screenshot Hasil**
+![Screenshot 2023-11-06 204235](https://github.com/radithyaarka/sbd/assets/143694651/5103f067-d832-4884-a5a0-6a7d53fe83a4)
+**Screenshot Data Count**
+![Screenshot 2023-11-06 204242](https://github.com/radithyaarka/sbd/assets/143694651/8e5f7511-f59e-4a24-a85e-c4704ea23369)
+
 ## Soal 2
 
 Tampilkan nama mata kuliah dan nama dosen yang memiliki paling banyak jenis tugas
@@ -88,6 +93,10 @@ WHERE akademik.course.id = (
 
 ### Output
 
+**Screenshot Hasil**
+![Screenshot 2023-11-06 204623](https://github.com/radithyaarka/sbd/assets/143694651/49e28d7a-d8f1-4d97-ae40-c0e923c5c056)
+**Screenshot Data Count**
+![Screenshot 2023-11-06 204650](https://github.com/radithyaarka/sbd/assets/143694651/2fb68bbd-9036-4447-bb06-2a13b5b70064)
 
 ## Soal 3
 
@@ -130,7 +139,10 @@ WHERE akademik.task.id IN (
 
 ### Output
 
-
+**Screenshot Hasil**
+![Screenshot 2023-11-06 204737](https://github.com/radithyaarka/sbd/assets/143694651/b7887a85-80bb-4714-845f-51973606d075)
+**Screenshot Data Count**
+![Screenshot 2023-11-06 204742](https://github.com/radithyaarka/sbd/assets/143694651/34dec906-ba72-4d7f-aa82-d3f5439b7f90)
 
 ## Soal 4
 
@@ -167,6 +179,11 @@ WHERE akademik.task.score < (
 ```
 
 ### Output
+
+**Screenshot Hasil**
+![Screenshot 2023-11-06 204819](https://github.com/radithyaarka/sbd/assets/143694651/be814de8-4fc9-4eeb-b68c-ca879da0dbd3)
+**Screenshot Data Count**
+![Screenshot 2023-11-06 204824](https://github.com/radithyaarka/sbd/assets/143694651/165fbdbe-3892-4e1d-b02b-a54f5bed68bf)
 
 ## Soal 5
 
@@ -205,3 +222,8 @@ HAVING AVG(score) < (
 ```
 
 ### Output
+
+**Screenshot Hasil**
+![Screenshot 2023-11-06 204844](https://github.com/radithyaarka/sbd/assets/143694651/d1c7c27f-528c-43e3-926d-24200709a037)
+**Screenshot Data Count**
+![Screenshot 2023-11-06 204848](https://github.com/radithyaarka/sbd/assets/143694651/35b2c752-620f-4fe0-b602-af1abf1f609c)
